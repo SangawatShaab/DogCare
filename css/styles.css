@@ -131,6 +131,24 @@ h2{
         position: static;
         transform: rotate(0);
     }
+    .container-fluid{
+        padding:3% 3% 3%;
+    }
+    #feature{
+        padding: 3% 3% 3%;
+    }
+    #cta{
+        padding:2% 1%;
+    }
+    .cta-text{
+        padding: 2% 4% 3%;
+    }
+    .cta-btn{
+        margin:auto;
+    }
+    .row-btn{
+        padding:0;
+    }
 }
 
 /* CAll to action section */
